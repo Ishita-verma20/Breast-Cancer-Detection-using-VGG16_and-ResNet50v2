@@ -134,7 +134,7 @@ combined_models.ipynb
 
 ## Author
 
-**Ishita Verma**
+**Ishita Verma** ,
 **Divyanshu Pathak**
 
 B.Tech – Computer Science Engineering
